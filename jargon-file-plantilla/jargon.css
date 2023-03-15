@@ -1,0 +1,47 @@
+.PRIMER-TITULO {
+  text-align: center;
+  font-size: 40px;
+  text-decoration-line: underline;
+}
+
+.body {
+  font-family: sans-serif;
+  background-color: rgb(197, 235, 253);
+}
+.afaik {
+  background-color: rgb(71, 150, 240);
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+.oblique {
+  font-style: oblique;
+}
+.estilos {
+  background-color: rgb(14, 230, 238);
+  color: white;
+}
+.pequeños {
+  background-color: white;
+  margin: 0;
+  line-height: 1.2em;
+}
+.cuadro {
+  margin: em 0px;
+}
+
+.final {
+  text-align: right;
+  font-size: normal;
+  font-family: serif;
+  display: block;
+  margin: 0;
+  line-height: 1.2em;
+}
+
+.margenes {
+  margin-inline-start: 15px;
+}
+.margenes2 {
+  margin-inline-start: 36px;
+}
