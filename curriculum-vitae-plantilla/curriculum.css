@@ -1,3 +1,83 @@
 .color-fondo{
-    background-color: azure;
+    background-color: rgb(88, 128, 128);
+}
+.primer-titulo{
+    font-size: 250%;
+   
+text-transform:  uppercase;
+    text-align:  center
+    ;
+
+}
+.primer-p{
+
+    background-color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.segundo-titulo{
+
+    background-color: rgb(180, 180, 180);
+    text-decoration: underline;
+
+}
+
+.p-segundotitulo{
+    background-color: beige;
+    display: block;
+    margin: 0;
+   
+    
+    
+    
+
+
+}
+.p{
+    color: black;
+}
+.blue
+{
+    color: blue;
+}
+
+.Educación-form
+{
+    background-color: rgb(57, 57, 240);
+   text-decoration: underline ;
+
+}
+.fechas{
+    background-color: grey;
+    margin: 0;
+}
+
+
+.capac-apt{
+    background-color: rgb(57, 57, 240);
+   text-decoration: underline ;
+}
+
+.idiomas{
+    background-color: grey;
+    font-style: italic ;
+
+}
+
+.ingles{
+    
+    background-color: grey;
+    margin: 0;
+    
+    
+
+}
+
+.footer{
+    background-color: white;
+   
+    margin: 0
+    ;
+    text-align: end;
 }
