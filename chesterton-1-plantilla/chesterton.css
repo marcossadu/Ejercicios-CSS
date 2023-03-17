@@ -1,0 +1,49 @@
+
+
+body{
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    text-align:  justify;
+    background-color: hwb(15 40% 40%);
+    margin: 10px 10%;
+    ;
+    
+}
+header{
+    background-color: hwb(15 50% 40%);
+    
+}
+h1{
+    text-align: center
+    
+    ;
+    font-size: 4rem;
+}
+
+main{
+    border: 2px solid white;
+    padding: 10px
+ ;
+   
+}
+h2{
+    background-color: white;
+}
+section{
+
+    background-color:  hwb(15 60% 30%);
+    padding-bottom: 5px
+
+}
+.pmain{
+    border: 10px solid hwb(15 15% 75%);
+    color: white;
+    padding: 10px;
+    margin: 20px;
+
+}
+
+footer{
+    
+    background-color: hwb(15 60% 30%) ;
+}

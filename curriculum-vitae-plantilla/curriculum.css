@@ -1,0 +1,15 @@
+.color-fondo{
+    background-color:rgb(204, 200, 200) ;
+}
+.primer-titulo{
+
+ text-transform: uppercase;
+ font-family: sans-serif;
+ text-align: center
+ ;
+ font-size: 250%;
+}
+.primera-cabecera{
+    background-color: rgb(167, 145, 216);
+    font-size: 150%;
+}
