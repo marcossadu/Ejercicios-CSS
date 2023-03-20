@@ -1,0 +1,79 @@
+header>h1{
+
+  background-color: grey
+;
+font-size:  200%; 
+margin-block: 0
+;
+color: white
+
+; font-family: sans-serif;
+
+
+}
+
+body{
+
+    margin: 0;
+    font-size: 200%;
+    font-family: sans-serif;
+}
+
+h2{
+
+    background-color: green;
+    color: white;
+    font-family: sans-serif;
+    width: 100%;
+    border-top-right-radius: 15px
+    ;
+    border-top-left-radius: 15px
+    
+    ;
+    
+    margin: 0;
+
+
+}
+
+p{
+
+    background-color: aquamarine;
+    font-size: 150%;
+    margin: 0;
+    width: 100%;
+    margin-left: 0%;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+
+}
+.container{
+
+    margin: 0 auto;
+    width: 70%
+
+}
+.container>div{
+
+    margin-top: 0%
+    ;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    
+}
+
+nav{
+background-color: grey ;
+width: 10%;
+position:fixed;
+margin-top: 5%;
+margin-left: 2%;
+color: white;
+ border-radius: 5px;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
