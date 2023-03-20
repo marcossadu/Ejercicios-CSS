@@ -1,0 +1,94 @@
+body{
+
+    background-color: rgb(185, 185, 185);
+    font-family: sans-serif;
+
+}
+
+header{
+
+    font-family: sans-serif;
+   text-align: center;
+   font-size: 1.5rem;
+
+}
+.container{
+
+    text-align: center;
+    border-color:brown;
+    background-color: orange;
+width: 80%;
+left: 10%;
+position: absolute;
+height: 10%;
+
+}
+p{
+
+    font-family: sans-serif;
+    border: solid;
+    font-size: 1.5rem;
+   
+}
+
+.p1{
+    border: rgb(59, 245, 59)  4px solid;
+    width: 40%;
+    background-color: green;
+    position: absolute;
+    height: 20%;
+    left: 30%;
+   right: 30%;
+    top: 40%;
+    z-index: 2;
+   
+}
+.p2
+{
+    border: yellowgreen 4px solid;
+    width: 40%;
+    background-color: yellow;
+    position: absolute;
+     left: 5%;
+     right: 30%;
+     top: 25%;
+    height: 20%;
+    text-align: left;
+}
+
+.p3{
+    width: 40%;
+    background-color: pink;
+    position: absolute;
+     left: 5%;
+     right: 30%;
+     top: 50%;
+    height: 20%;
+    text-align: left;
+    border: palevioletred 4px solid;
+}
+
+.p4{
+
+    background-color: red;
+    width: 40%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    height: 20%;
+    text-align: right;
+    border: rgb(211, 30, 90) 4px solid;
+    
+
+}
+
+.p5{
+
+    background-color: blue;
+    width: 40%;
+    position: absolute; left: 50%;
+ top: 25%;
+    height: 20%;
+    text-align: right;
+    border: rgb(97, 106, 230) 4px solid;
+}
